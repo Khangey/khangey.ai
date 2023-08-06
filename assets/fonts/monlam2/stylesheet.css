@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Monlam';
+    src: url('https://monlam.ai/assets/fonts/monlam2/MonlamTBslim.eot');
+    src: url('https://monlam.ai/assets/fonts/monlam2/MonlamTBslim.eot?#iefix') format('embedded-opentype'),
+        url('https://monlam.ai/assets/fonts/monlam2/MonlamTBslim.woff2') format('woff2'),
+        url('https://monlam.ai/assets/fonts/monlam2/MonlamTBslim.woff') format('woff'),
+        url('https://monlam.ai/assets/fonts/monlam2/MonlamTBslim.ttf') format('truetype'),
+        url('MonlamTBslim.svg#MonlamTBslim') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monlam-b';
+    src: url('https://monlam.ai/assets/fonts/monlam2/MonlamDicA2021-Regular.eot');
+    src: url('https://monlam.ai/assets/fonts/monlam2/MonlamDicA2021-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://monlam.ai/assets/fonts/monlam2/MonlamDicA2021-Regular.woff2') format('woff2'),
+        url('https://monlam.ai/assets/fonts/monlam2/MonlamDicA2021-Regular.woff') format('woff'),
+        url('https://monlam.ai/assets/fonts/monlam2/MonlamDicA2021-Regular.ttf') format('truetype'),
+        url('MonlamDicA2021-Regular.svg#MonlamDicA2021-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
